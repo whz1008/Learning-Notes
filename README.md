@@ -1,2 +1,2 @@
-# SomeStuff
-Notes
+# Learning Notes
+
